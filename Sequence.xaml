@@ -111,7 +111,7 @@
       <AssemblyReference>UiPath.PDF.Activities</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Sequence" sap:VirtualizedContainerService.HintSize="494,2334" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Sequence" sap:VirtualizedContainerService.HintSize="494,2727" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="sd:DataTable" Default="[New System.Data.DataTable]" Name="ExtractDataTable" />
     </Sequence.Variables>
@@ -200,7 +200,7 @@
         <uix:TargetApp Area="0, 0, 0, 0" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJGSURBVFhH7Zc9axRRFIavRoMKtuIfEKyyMYIgGF2wCtjZikgqwXZ/gIWprCxEFsRSVERsZCwUC4tAQCxSCFZWm0x2/ZglG81mZ473mb03xPXM7kSyVwsPPGQ49z3veXdmlzDGl9RN1RJldZPYvzIOnHdkqbq1/bKNmiVFFAh21fxyPnnI5R52Vo29LdwSTRCCiDuQP/P0jpH2/D5Zq07IysyENE7tLXjizQ52uQAJAaS7YGT1rBVOHQgCu9jJbkOakMs97GS3Sa7tVwUhYLeJz4f/9B52m0bl7wVgt1EPPJVJvb8bRngUBth4+UTSL01pXjmnnpeB2fRr03o9Vs9BDzA9KdlWV6h2feH385IwS+GFp6YpvAO9VpwPd549UM/LwCyFl3YOhQF+LL7Kh7c+fVTPy8AshZd2DoUBktu1fDjLMmnNX1Q1w2CGWQovTQOFAVYvHJe0s54bdD+8l8bpI6pOxWqZofDAS9VZCgNA++7N3ITaePHQ/lM5pOp+wWrQ+sJD1TmGBmjMHJbNd2+dlX2WS28kvnRS11o4Q+OLWTw0rWd4AMvK7DHZXF5ylv2f1PfXz+XbrRvSuj6XwzU9/9OlmGFW89zJyAA5Z47K+qN7kvV6zr640KBlRvUaoFwAx9rlaek8vS+9z/H2N5zimh5naLTZInYVYJvKQYnnTkjz6mwO1/RU7Qj+LMAe8j/APxEgGWwGJCFANNAMSUSAqiXd0QwFO/svqfai5hqacBywq/9y6ss2uBM8jnF+J/Bmh3s9N+YnNWkHow9r14kAAAAASUVORK5CYII=" InformativeScreenshot="e5dce416d1195f5d4cf3961c6b8cb704.png" Selector="&lt;html app='msedge.exe' htmlwindowname='nameStorage:?wm_referrer=https%3A%2F%2Fit.aliexpress.com%2F%3FgatewayAdapt%3Dglo2ita%26msclkid%3D70654ac02e8014bec43328438878f26c%26utm_source%3Dbing%26utm_medium%3Dcpc%26utm_campaign%3DAli_IT_Brand_Exact_D_SKG%26utm_term%3Daliexpress%26utm_content%3DAliex*' title='ipgone 13 pro max - Acquista ipgone 13 pro max con spedizione gratuita su AliExpress version' /&gt;" Url="https://it.aliexpress.com/af/ipgone-13-pro-max.html?d=y&amp;origin=n&amp;SearchText=ipgone+13+pro+max&amp;catId=0&amp;spm=a2g0o.home.1000002.0&amp;initiative_id=AS_20220517054532" />
       </uix:NApplicationCard.TargetApp>
     </uix:NApplicationCard>
-    <ueab:ExcelApplicationCard Password="{x:Null}" ReadFormatting="{x:Null}" DisplayName="Use Excel File" sap:VirtualizedContainerService.HintSize="434,80" sap2010:WorkflowViewState.IdRef="ExcelApplicationCard_1" KeepExcelFileOpen="True" ResizeWindow="None" WorkbookPath="C:\Users\enxhi.uruci\Desktop\outputt.xlsx">
+    <ueab:ExcelApplicationCard Password="{x:Null}" ReadFormatting="{x:Null}" DisplayName="Use Excel File" sap:VirtualizedContainerService.HintSize="434,473" sap2010:WorkflowViewState.IdRef="ExcelApplicationCard_1" KeepExcelFileOpen="True" ResizeWindow="None" WorkbookPath="C:\Users\enxhi.uruci\Desktop\outputt.xlsx">
       <ueab:ExcelApplicationCard.Body>
         <ActivityAction x:TypeArguments="ue:IWorkbookQuickHandle">
           <ActivityAction.Argument>
@@ -226,7 +226,7 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ueab:ExcelApplicationCard>
-    <uix:NApplicationCard WebDriverMode="{x:Null}" AttachMode="ByInstance" DisplayName="Use Browser Edge: AliExpress IT | AliExpress in Italiano - Fatti furbo e risparmia con lo shopping o" sap:VirtualizedContainerService.HintSize="434,391" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="df795c41-efea-4d19-8195-50d419d17103" Version="V1">
+    <uix:NApplicationCard WebDriverMode="{x:Null}" AttachMode="ByInstance" DisplayName="Use Browser Edge: AliExpress IT | AliExpress in Italiano - Fatti furbo e risparmia con lo shopping o" sap:VirtualizedContainerService.HintSize="452,391" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="df795c41-efea-4d19-8195-50d419d17103" Version="V1">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
